@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Visual studio project\\testgit\\testgit\\testgit.csproj",
+      "projectUniqueName": "C:\\Users\\ASUS\\Source\\Repos\\Web-Storage-Management\\testgit\\testgit\\testgit.csproj",
       "projectName": "testgit",
-      "projectPath": "E:\\Visual studio project\\testgit\\testgit\\testgit.csproj",
+      "projectPath": "C:\\Users\\ASUS\\Source\\Repos\\Web-Storage-Management\\testgit\\testgit\\testgit.csproj",
       "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-      "outputPath": "E:\\Visual studio project\\testgit\\testgit\\obj\\",
+      "outputPath": "C:\\Users\\ASUS\\Source\\Repos\\Web-Storage-Management\\testgit\\testgit\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "E:\\Visual studio tool\\NuGetPackages"
